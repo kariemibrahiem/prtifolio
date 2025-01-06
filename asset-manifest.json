@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/kariemibrahiem.github.io//prtifolio.git/static/css/main.ddb86812.css",
+    "main.js": "/kariemibrahiem.github.io//prtifolio.git/static/js/main.c73b2f6f.js",
+    "static/media/team_work.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/team_work.0e51fe0b8ce36684cfce.png",
+    "static/media/developer.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/developer.cc692f9721868efd3502.png",
+    "static/media/demonetor.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/demonetor.1854963060a99cfaa245.png",
+    "static/media/clienc.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/clienc.5fda962449b1744ebf52.png",
+    "static/media/email.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/email.2f7b83dc38e846d961f0.png",
+    "static/media/back.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/back.788f69d3a1129dc64d3b.png",
+    "static/media/company.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/company.6ad06aea2d4fc6bb460c.png",
+    "static/media/phone.gif": "/kariemibrahiem.github.io//prtifolio.git/static/media/phone.747a0b971d8f447ab8fb.gif",
+    "static/media/chair.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/chair.179ab224331a2d1fb6c9.png",
+    "static/media/laravel_1.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/laravel_1.aa50910f8ec468fc842b.png",
+    "static/media/location.gif": "/kariemibrahiem.github.io//prtifolio.git/static/media/location.f8a085f1137c273152f2.gif",
+    "static/media/moon.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/moon.6fa6988263e1e2240449.png",
+    "static/media/sql.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/sql.167c88550478e6f0f85c.png",
+    "static/media/home (1).gif": "/kariemibrahiem.github.io//prtifolio.git/static/media/home (1).e1baedc9e2643f9f7339.gif",
+    "static/media/php.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/php.6818a489cf7a785c8681.png",
+    "static/media/guess.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/guess.d2f833c61771833907ea.png",
+    "static/media/logo.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/logo.61ecfb3b83af5ba3ea04.png",
+    "static/media/boots.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/boots.9cd429090069a189475b.png",
+    "static/media/crud.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/crud.5df8127ba0fe996e7a84.png",
+    "static/media/react.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/alg.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/alg.5971cbd7624631be7284.png",
+    "static/media/slov.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/slov.681e5c1bbea51890d94f.png",
+    "static/media/data.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/data.882560851f5636a84bb8.png",
+    "static/media/my.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/my.5e8d6169cc4397eb1d4b.png",
+    "static/media/githup.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/githup.4ca3b832efd81a65a429.png",
+    "static/media/css.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/css.d1a3c1e59ca82dbdf815.png",
+    "static/media/xo.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/xo.b99cd0b2e88f53960631.png",
+    "static/media/html.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/js.png": "/kariemibrahiem.github.io//prtifolio.git/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/kariemibrahiem.github.io//prtifolio.git/index.html",
+    "main.ddb86812.css.map": "/kariemibrahiem.github.io//prtifolio.git/static/css/main.ddb86812.css.map",
+    "main.c73b2f6f.js.map": "/kariemibrahiem.github.io//prtifolio.git/static/js/main.c73b2f6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddb86812.css",
+    "static/js/main.c73b2f6f.js"
+  ]
+}
